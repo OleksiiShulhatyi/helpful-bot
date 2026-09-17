@@ -3,7 +3,7 @@ A bot that will help you with daily tasks
 
 ## Installation instructions
 
-1) Install pytjon
+1) Install python
 2) Run code with command:
 
 '''
