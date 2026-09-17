@@ -1,2 +1,11 @@
 # helpful-bot
 A bot that will help you with daily tasks
+
+## Installation instructions
+
+1) Install pytjon
+2) Run code with command:
+
+'''
+python main.py
+'''
