@@ -6,6 +6,6 @@ A bot that will help you with daily tasks
 1) Install python
 2) Run code with command:
 
-'''
+"""
 python main.py
-'''
+"""
